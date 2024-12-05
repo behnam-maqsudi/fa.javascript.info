@@ -81,7 +81,7 @@ let n = 1.23456;
 alert( n.toFixed(2) ); // 1.23
 ```
 
-در بخش‌های <info:number> and <info:string> توابع خاص بیشتری خواهیم دید.
+در بخش‌های <info:number> و <info:string> توابع خاص بیشتری خواهیم دید.
 
 ````warn header="Constructors `رشته حرف/عدد/متغیر بولی` فقط برای استفاده‌ی درونی هستند"
 
